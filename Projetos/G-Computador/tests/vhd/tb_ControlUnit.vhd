@@ -165,6 +165,33 @@ begin
            zx = '0' and nx = '0' and zy = '1' and ny = '1' and f = '0' and no = '0')
       report " **Falha** em jge %D" severity error;
 
+      -- jeu %S :  salta
+    instruction <= "10" & "001" & "001100" & "0000" & "001";
+    zr <= '0';  ng <= '0';
+    wait until clk = '1';
+    assert(loadPC = '1' )
+      report " **Falha** em jeu %D" severity error;
+
+    -- jeu %S :  salta
+    instruction <= "10" & "001" & "001100" & "0000" & "001";
+    zr <= '0';  ng <= '1';
+    wait until clk = '1';
+    assert(loadPC = '1' )
+      report " **Falha** em jeu %D" severity error;
+
+    -- jeu %S :  n salta
+    instruction <= "10" & "001" & "001100" & "0000" & "001";
+    zr <= '1';  ng <= '0';
+    wait until clk = '1';
+    assert(loadPC = '0' )
+      report " **Falha** em jeu %D" severity error;
+
+    -- jeu %S :  n salta
+    instruction <= "11" & "001" & "001100" & "0000" & "001";
+    zr <= '0';  ng <= '1';
+    wait until clk = '1';
+    assert(loadPC = '0' )
+      report " **Falha** em jeu %D" severity error;
     test_runner_cleanup(runner); -- Simulation ends here
 
 	wait;
