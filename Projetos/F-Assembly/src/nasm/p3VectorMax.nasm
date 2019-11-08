@@ -22,3 +22,42 @@
 ;             RAM[11] : 2
 ;===============================================
 
+leaw $4, %A
+movw (%A), %D
+leaw $5, %A
+subw %D, (%A), %S
+leaw $CHECK1 , %A
+jg %S
+nop
+leaw $5, %A
+movw (%A), %D
+CHECK1:
+leaw $6, %A
+subw %D, (%A), %S
+leaw $CHECK2 , %A
+jg %S
+nop
+leaw $6, %A
+movw (%A), %D
+CHECK2:
+leaw $7, %A
+subw %D, (%A), %S
+leaw $CHECK3 , %A
+jg %S
+nop
+leaw $7, %A
+movw (%A), %D
+CHECK3:
+leaw $8, %A
+subw %D, (%A), %S
+leaw $FINAL , %A
+jg %S
+nop
+leaw $8, %A
+movw (%A), %D
+FINAL:
+leaw $2, %A
+movw %D, (%A)
+
+
+

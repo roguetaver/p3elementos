@@ -14,21 +14,21 @@
 
 p3Pseudo.nasm 2 1000
 p3VectorMax.nasm 2 1000
-p3TesteLed.nasm 1 1000
+#p3TesteLed.nasm 1 1000
 
 ########################
 # C
 ########################
-abs.nasm 2 1000
-add.nasm 1 1000
-div.nasm  2 10000
-factorial.nasm 2 10000
-max.nasm 2 10000
-mod.nasm 2 10000
-mov.nasm 1 1000
-mult.nasm 1 10000
-pow.nasm 2 10000
-sub.nasm 1 1000
+#abs.nasm 2 1000
+#add.nasm 1 1000
+#div.nasm  2 10000
+#factorial.nasm 2 10000
+#max.nasm 2 10000
+#mod.nasm 2 10000
+#mov.nasm 1 1000
+#mult.nasm 1 10000
+#pow.nasm 2 10000
+#sub.nasm 1 1000
 
 
 ######################

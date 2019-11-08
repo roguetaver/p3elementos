@@ -37,6 +37,8 @@ j0 <= instruction(0);
 j1 <= instruction(1);
 j2 <= instruction(2);
 
+n <= instruction(16);
+
 
 zx <= i17 and instruction(12);
 nx <= i17 and instruction(11);
@@ -55,7 +57,7 @@ loadA <= instruction(6) or (not instruction(17));
 loadS <= instruction(5) and instruction(17);
 loadD <= instruction(4) and instruction(17);
 loadM <= instruction(3) and instruction(17);
-loadPC <= (instruction(17) and ((instruction(2) and ng and (not zr)) or (instruction(1) and zr) or (instruction(0) and (not zr) and (not ng))));
+loadPC <= (instruction(17) and ((instruction(2) and ng and (not zr)) or (instruction(1) and zr) or (instruction(0) and ((not zr) and (not ng)) or ng));
 
 
 
