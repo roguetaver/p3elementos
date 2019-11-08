@@ -1,0 +1,1490 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional
+Eand16
+Z1 w1567011880
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/And16.vhd
+Z5 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/And16.vhd
+l0
+L4
+Vh]ej`Ck73hG:Zd8Jo=jjc1
+!s100 4g2NdCHBc<J3K7jR5WC:B0
+Z6 OV;C;10.5b;63
+33
+Z7 !s110 1567166142
+!i10b 1
+Z8 !s108 1567166142.000000
+Z9 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/And16.vhd|
+Z10 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/And16.vhd|
+!i113 1
+Z11 o-quiet -2008 -work lib
+Z12 tExplicit 1 CvgOpt 0
+Aarch
+R2
+R3
+DEx4 work 5 and16 0 22 h]ej`Ck73hG:Zd8Jo=jjc1
+l12
+L11
+VE676=61WVG>Mam>>SI?<d1
+!s100 3g9[9K^BWh[93;0dCe36^1
+R6
+33
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebarrelshifter16
+R1
+R2
+R3
+R0
+Z13 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/BarrelShifter16.vhd
+Z14 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/BarrelShifter16.vhd
+l0
+L4
+V5[h]I7=h]?dc4<<Vlg5T<0
+!s100 W]^JZCg1HIZ[U7cW:3Q^60
+R6
+33
+R7
+!i10b 1
+R8
+Z15 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/BarrelShifter16.vhd|
+Z16 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/BarrelShifter16.vhd|
+!i113 1
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 15 barrelshifter16 0 22 5[h]I7=h]?dc4<<Vlg5T<0
+l13
+L12
+Va>;?1Cl@Y9Q@oZE12^_530
+!s100 n[lk8QaMdBBQX3kVWmVDh1
+R6
+33
+R7
+!i10b 1
+R8
+R15
+R16
+!i113 1
+R11
+R12
+Edmux2way
+R1
+R2
+R3
+R0
+Z17 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux2Way.vhd
+Z18 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux2Way.vhd
+l0
+L4
+V>:IF]Koi99f<cJ0CmCAM51
+!s100 Mk4MPhHXoJhVbDN8OhUzJ0
+R6
+33
+R7
+!i10b 1
+R8
+Z19 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux2Way.vhd|
+Z20 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux2Way.vhd|
+!i113 1
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 8 dmux2way 0 22 >:IF]Koi99f<cJ0CmCAM51
+l13
+L12
+V9GXj5a`;m_<dS^VLMH<ei1
+!s100 <?G977lJi=Ng;RlJnQS^R1
+R6
+33
+R7
+!i10b 1
+R8
+R19
+R20
+!i113 1
+R11
+R12
+Edmux4way
+R1
+R2
+R3
+R0
+Z21 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux4Way.vhd
+Z22 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux4Way.vhd
+l0
+L4
+VchCWhU[f@SDYOfM[z`KAD3
+!s100 ;Fe6?`C@SB@=WbZbaI^E^0
+R6
+33
+R7
+!i10b 1
+R8
+Z23 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux4Way.vhd|
+Z24 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux4Way.vhd|
+!i113 1
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 8 dmux4way 0 22 chCWhU[f@SDYOfM[z`KAD3
+l15
+L14
+VGRfHBPl[GAgfUSJ;JH5c61
+!s100 3^2cJAMn5[ZgX8M0=f:Oe0
+R6
+33
+R7
+!i10b 1
+R8
+R23
+R24
+!i113 1
+R11
+R12
+Edmux8way
+R1
+R2
+R3
+R0
+Z25 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux8Way.vhd
+Z26 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux8Way.vhd
+l0
+L4
+V4@:^4]]>d5jd<9PRAJQi32
+!s100 zC5^AWzR72_D_1oKAO8`>2
+R6
+33
+R7
+!i10b 1
+R8
+Z27 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux8Way.vhd|
+Z28 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/DMux8Way.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 8 dmux8way 0 22 4@:^4]]>d5jd<9PRAJQi32
+l19
+L18
+V=lA1=61_ZE[[G;XS`D6UJ2
+!s100 lhjaPJ9Dk<0hATO;1J;183
+R6
+33
+R7
+!i10b 1
+R8
+R27
+R28
+!i113 1
+R11
+R12
+Emux16
+Z29 w1567167137
+R2
+R3
+R0
+Z30 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux16.vhd
+Z31 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux16.vhd
+l0
+L4
+V^KK7>>=?KzfHlc;dK>^H53
+!s100 IzGKQCSkQ7RCdJh>^j0Q61
+R6
+33
+Z32 !s110 1567167165
+!i10b 1
+Z33 !s108 1567167165.000000
+Z34 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux16.vhd|
+Z35 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux16.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+Z36 DEx4 work 5 mux16 0 22 ^KK7>>=?KzfHlc;dK>^H53
+l13
+L12
+Vmj5mIZT>7X]S0;`O;LiE20
+!s100 fgiQIJEzjiIfDebohJ]o71
+R6
+33
+R32
+!i10b 1
+R33
+R34
+R35
+!i113 1
+R11
+R12
+Emux2way
+Z37 w1567165748
+R2
+R3
+R0
+Z38 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux2Way.vhd
+Z39 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux2Way.vhd
+l0
+L4
+V5Md04iB]KYYIl:m:EPnQ[3
+!s100 L]VTV_?L9fN8g2_`K9nZQ2
+R6
+33
+R7
+!i10b 1
+R8
+Z40 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux2Way.vhd|
+Z41 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux2Way.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 7 mux2way 0 22 5Md04iB]KYYIl:m:EPnQ[3
+l13
+L12
+VY[o8CVH:ifX[W<;FXofQc0
+!s100 K]ASW<9^^iL`QadnFbU0A0
+R6
+33
+R7
+!i10b 1
+R8
+R40
+R41
+!i113 1
+R11
+R12
+Emux4way
+R1
+R2
+R3
+R0
+Z42 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux4Way.vhd
+Z43 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux4Way.vhd
+l0
+L4
+VS6DJa:23Uele:d0oQjjO[0
+!s100 X`n8^nYIhlnNgIfP_EkID1
+R6
+33
+R7
+!i10b 1
+R8
+Z44 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux4Way.vhd|
+Z45 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux4Way.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 7 mux4way 0 22 S6DJa:23Uele:d0oQjjO[0
+l15
+L14
+VFY1>D3_aZKDkME2HMEl=_3
+!s100 aG_CaFYATcGQO^95YCT`Q3
+R6
+33
+R7
+!i10b 1
+R8
+R44
+R45
+!i113 1
+R11
+R12
+Emux4way16
+Z46 w1567166082
+R2
+R3
+R0
+Z47 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux4Way16.vhd
+Z48 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux4Way16.vhd
+l0
+L4
+VgIliodZR>K=jaJZeHi]]@1
+!s100 8]mCOPe5cHg3o24Lz?cGK0
+R6
+33
+R7
+!i10b 1
+R8
+Z49 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux4Way16.vhd|
+Z50 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux4Way16.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 9 mux4way16 0 22 gIliodZR>K=jaJZeHi]]@1
+l15
+L14
+V73?6RGT]21P>H5@6Yg[g=1
+!s100 BOSOeYkXb;b]U5Z9Cn[3b2
+R6
+33
+R7
+!i10b 1
+R8
+R49
+R50
+!i113 1
+R11
+R12
+Emux8way
+R1
+R2
+R3
+R0
+Z51 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux8Way.vhd
+Z52 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux8Way.vhd
+l0
+L4
+VcMIZim^j_>0TGlG7NC03C3
+!s100 ^ag5`^MlkFaAfCaX]@3>L0
+R6
+33
+R7
+!i10b 1
+R8
+Z53 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux8Way.vhd|
+Z54 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux8Way.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 7 mux8way 0 22 cMIZim^j_>0TGlG7NC03C3
+l19
+L18
+V5[CodR>1d;I_6jI8]]ehk3
+!s100 Ie8Aa;SR?gaTn16RGe[c]0
+R6
+33
+R7
+!i10b 1
+R8
+R53
+R54
+!i113 1
+R11
+R12
+Emux8way16
+R37
+R2
+R3
+R0
+Z55 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux8Way16.vhd
+Z56 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux8Way16.vhd
+l0
+L4
+V7MWl=:zn]>Q>M5K]`_b<60
+!s100 @m115@68;o9gzO2VgfBG]0
+R6
+33
+R7
+!i10b 1
+R8
+Z57 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux8Way16.vhd|
+Z58 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Mux8Way16.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 9 mux8way16 0 22 7MWl=:zn]>Q>M5K]`_b<60
+l19
+L18
+VgW]6TWE96AVA2nga`62]l2
+!s100 hcdWKh4JcfmkHF21Tb=3z3
+R6
+33
+R7
+!i10b 1
+R8
+R57
+R58
+!i113 1
+R11
+R12
+Enand_z01
+R1
+R2
+R3
+R0
+Z59 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Nand.vhd
+Z60 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Nand.vhd
+l0
+L4
+VMV:88zTBEe:UQ96>jlUfI0
+!s100 0d61a09AXn6n_X_jb>Bo?2
+R6
+33
+R7
+!i10b 1
+R8
+Z61 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Nand.vhd|
+Z62 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Nand.vhd|
+!i113 1
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 8 nand_z01 0 22 MV:88zTBEe:UQ96>jlUfI0
+l13
+L12
+VgmedaE[cIG6HG?Zc`NOz20
+!s100 =^5mGJ3^jCjomNfP9B_k40
+R6
+33
+R7
+!i10b 1
+R8
+R61
+R62
+!i113 1
+R11
+R12
+Enor8way
+Z63 w1567167012
+R2
+R3
+R0
+Z64 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Nor8Way.vhd
+Z65 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Nor8Way.vhd
+l0
+L4
+VI6@ZGJd>JSC7UGzNAn6GU2
+!s100 bzc2JH[>FOP2l:COLj<IY2
+R6
+33
+Z66 !s110 1567167058
+!i10b 1
+Z67 !s108 1567167058.000000
+Z68 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Nor8Way.vhd|
+Z69 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Nor8Way.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 7 nor8way 0 22 I6@ZGJd>JSC7UGzNAn6GU2
+l18
+L17
+V8XAXhGbnN97?kfP2:SOF11
+!s100 777X49]UE;cieXCkP2]U30
+R6
+33
+R66
+!i10b 1
+R67
+R68
+R69
+!i113 1
+R11
+R12
+Enot16
+R1
+R2
+R3
+R0
+Z70 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Not16.vhd
+Z71 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Not16.vhd
+l0
+L4
+VC]SG@M]l`d<egUIK]zP2?0
+!s100 fYJ1`YCnUZe9F?2KLeD4V3
+R6
+33
+R7
+!i10b 1
+R8
+Z72 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Not16.vhd|
+Z73 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Not16.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 5 not16 0 22 C]SG@M]l`d<egUIK]zP2?0
+l11
+L10
+VfM8eKCCLJoJ7`H7N30;Po3
+!s100 WQa7koFcG?Y]1;liUHc1C1
+R6
+33
+R7
+!i10b 1
+R8
+R72
+R73
+!i113 1
+R11
+R12
+Eor16
+R37
+R2
+R3
+R0
+Z74 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Or16.vhd
+Z75 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Or16.vhd
+l0
+L4
+VFm015BPNjKE2P[ZaFANAP1
+!s100 >QKR87GJWMdVLQz<g8^hf0
+R6
+33
+R7
+!i10b 1
+Z76 !s108 1567166141.000000
+Z77 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Or16.vhd|
+Z78 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Or16.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 4 or16 0 22 Fm015BPNjKE2P[ZaFANAP1
+l12
+L11
+VY3E`F7@Zz<5JFoJkoQJBY0
+!s100 37DkeLmG3=]lGXV30AD970
+R6
+33
+R7
+!i10b 1
+R76
+R77
+R78
+!i113 1
+R11
+R12
+Eor8way
+R37
+R2
+R3
+R0
+Z79 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Or8Way.vhd
+Z80 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Or8Way.vhd
+l0
+L4
+V6_>9FK_U9`n7]^73i4MMa1
+!s100 Ag3dFfPkCD2FhoYEajciW3
+R6
+33
+Z81 !s110 1567166141
+!i10b 1
+R76
+Z82 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Or8Way.vhd|
+Z83 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/src/rtl/Or8Way.vhd|
+!i113 1
+R11
+R12
+Aarch
+R2
+R3
+DEx4 work 6 or8way 0 22 6_>9FK_U9`n7]^73i4MMa1
+l18
+L17
+Vhb^7QOXb713jZ7UVkZ=:n3
+!s100 RoYW:NzLJMLCGH_UWIBfV1
+R6
+33
+R81
+!i10b 1
+R76
+R82
+R83
+!i113 1
+R11
+R12
+Etb_mux16
+R1
+Z84 D^#x9 vunit_lib 13 vunit_context 0 22 5PF4h;N3nzRfAo898Q8WS3
+Z85 DPx9 vunit_lib 18 run_deprecated_pkg 0 22 06HHNn=l0Y?PoSLo8^<h00
+Z86 DPx9 vunit_lib 10 runner_pkg 0 22 NQlg?N:7cfzSYD?FX_C9W0
+Z87 DPx9 vunit_lib 7 run_pkg 0 22 ?ilEX`>N>LaongBVTRfDn1
+Z88 DPx9 vunit_lib 13 run_types_pkg 0 22 ]8KoceJmoGz<@LgQaN5R62
+Z89 DPx9 vunit_lib 20 check_deprecated_pkg 0 22 Y>TVz>[kI8XoP@P02gCOJ2
+Z90 DPx9 vunit_lib 9 check_pkg 0 22 k_?TDGU?=n?1Z0oahO>zF0
+Z91 DPx9 vunit_lib 11 checker_pkg 0 22 E?dhhcE;9VWnHLW[lW4`Y1
+Z92 DPx9 vunit_lib 8 stop_pkg 0 22 UjKiHFdPQ97>_>m`nM3cg3
+Z93 DPx9 vunit_lib 8 core_pkg 0 22 0M7EG>QDghVT?B78KOYPn0
+Z94 DPx9 vunit_lib 18 log_deprecated_pkg 0 22 Q7[lfBh_WC:ca^W64YP1U2
+Z95 DPx9 vunit_lib 9 print_pkg 0 22 z3A9G[B4JdMci]Ub;PK=S3
+Z96 DPx9 vunit_lib 4 path 0 22 ]@TR:IFM`TWfiVL<ZjY=I3
+Z97 DPx9 vunit_lib 15 log_handler_pkg 0 22 nl_I;6SFb6@cB[0oB[Gm?1
+Z98 DPx9 vunit_lib 8 ansi_pkg 0 22 h9cG]NHf=IYSX>SV5U_OM1
+Z99 DPx9 vunit_lib 14 log_levels_pkg 0 22 jGUFnEUH1mU?HKm3YRPGj3
+Z100 DPx9 vunit_lib 10 logger_pkg 0 22 Jj3MC9=bR4jQbFA1jSDXY2
+Z101 DPx9 vunit_lib 10 dictionary 0 22 _W8>On_YoEFWEDP8TQC@R0
+Z102 DPx9 vunit_lib 10 string_ops 0 22 >6lVd?dSYVCeeU;1?_=bg2
+Z103 D^#x9 vunit_lib 18 data_types_context 0 22 1?>9FT=3YA15`7IYa:H9b2
+Z104 DPx9 vunit_lib 8 dict_pkg 0 22 ehbf8zR4VgoO:66`0b==c3
+Z105 DPx9 vunit_lib 19 string_ptr_pool_pkg 0 22 I^`873Q>JaL`RoU3I`C2H1
+Z106 DPx9 vunit_lib 14 queue_pool_pkg 0 22 Z[=D0HJacYBCm0dE3aodk1
+Z107 DPx9 vunit_lib 17 integer_array_pkg 0 22 CJcNR>m;3A:?0bl`^YYN^0
+Z108 DPx9 vunit_lib 14 string_ptr_pkg 0 22 BcAU_Z][LeU1aR2CQKdF;1
+Z109 DPx9 vunit_lib 9 queue_pkg 0 22 ;89lc5:Q?7a@<EYe0_F1m0
+Z110 DPx9 vunit_lib 27 integer_vector_ptr_pool_pkg 0 22 >4MC1]6h[egYG8GmK_OaU3
+Z111 DPx9 vunit_lib 17 codec_builder_pkg 0 22 lMzaQB]AGo[9c?7g60J_93
+Z112 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z113 DPx4 ieee 11 numeric_bit 0 22 d<O?S;AIQfOzoHU3FDK]23
+Z114 DPx4 ieee 9 math_real 0 22 Sk6CSihbPL<f[^Shm]=KX0
+Z115 DPx4 ieee 12 math_complex 0 22 5i:;_e<WQ2;?b7>BdkGQL0
+Z116 DPx9 vunit_lib 9 codec_pkg 0 22 VE]>YKnj@eiUJ<U1YSEXb3
+Z117 DPx9 vunit_lib 22 integer_vector_ptr_pkg 0 22 KNo?M3?g8Rc_m:IGUMQ<m0
+R2
+R3
+R0
+Z118 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux16.vhd
+Z119 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux16.vhd
+l0
+L12
+V5Z]ZkVV6VIZMS?M8>MR6?2
+!s100 3n31zl2E@ZdA]^PRFF7mX1
+R6
+33
+R66
+!i10b 1
+R67
+Z120 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux16.vhd|
+Z121 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux16.vhd|
+!i113 1
+R11
+R12
+Atb
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+DEx4 work 8 tb_mux16 0 22 5Z]ZkVV6VIZMS?M8>MR6?2
+l35
+L16
+Vl0<P7f?DK:K<WBC^8=l_J0
+!s100 _[gD@0eCl^OmRb>=1PdWG0
+R6
+33
+R66
+!i10b 1
+R67
+R120
+R121
+!i113 1
+R11
+R12
+Etb_mux2way
+R1
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+R0
+Z122 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux2Way.vhd
+Z123 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux2Way.vhd
+l0
+L12
+V95m^RLJlHFlg>N:l43E;U2
+!s100 A<l=WNIfZE5maHh?`UzL72
+R6
+33
+Z124 !s110 1567166144
+!i10b 1
+Z125 !s108 1567166144.000000
+Z126 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux2Way.vhd|
+Z127 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux2Way.vhd|
+!i113 1
+R11
+R12
+Atb
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+DEx4 work 10 tb_mux2way 0 22 95m^RLJlHFlg>N:l43E;U2
+l32
+L16
+VD`SMZV<VN@]Zj`X`oIWR40
+!s100 bjFhmkV5n7d[QIH@5TSaI2
+R6
+33
+R124
+!i10b 1
+R125
+R126
+R127
+!i113 1
+R11
+R12
+Etb_mux4way16
+R1
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+R0
+Z128 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux4Way16.vhd
+Z129 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux4Way16.vhd
+l0
+L12
+VDS:56mK]g96;>;b?Lmk=50
+!s100 I3Z6UV8_2?^?2NkM`FklZ0
+R6
+33
+Z130 !s110 1567166200
+!i10b 1
+Z131 !s108 1567166200.000000
+Z132 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux4Way16.vhd|
+Z133 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux4Way16.vhd|
+!i113 1
+R11
+R12
+Atb
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+DEx4 work 12 tb_mux4way16 0 22 DS:56mK]g96;>;b?Lmk=50
+l36
+L16
+VUbQKM0iCbm^gj=96Vz>EK2
+!s100 042^83_gZ@o:m_;VHHIMR1
+R6
+33
+R130
+!i10b 1
+R131
+R132
+R133
+!i113 1
+R11
+R12
+Etb_mux8way16
+R1
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+R0
+Z134 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux8Way16.vhd
+Z135 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux8Way16.vhd
+l0
+L12
+VP9KBZQlE49@LXezA7:F?E0
+!s100 J4P_l7gI=?QB@ao:I]^Qg1
+R6
+33
+R124
+!i10b 1
+R125
+Z136 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux8Way16.vhd|
+Z137 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux8Way16.vhd|
+!i113 1
+R11
+R12
+Atb
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+DEx4 work 12 tb_mux8way16 0 22 P9KBZQlE49@LXezA7:F?E0
+l39
+L16
+VQ5;nb4]:P7h5GSJ1zzi6m0
+!s100 O3S;LRjj7ikB3l_lNYmLX2
+R6
+33
+R124
+!i10b 1
+R125
+R136
+R137
+!i113 1
+R11
+R12
+Etb_nand
+R1
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+R0
+Z138 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_nand.vhd
+Z139 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_nand.vhd
+l0
+L12
+VnQ]o>b3kU]B^zW0_j^FD=0
+!s100 aMe6E3WRV^[86=G6LDNL=3
+R6
+33
+R124
+!i10b 1
+R125
+Z140 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_nand.vhd|
+Z141 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_nand.vhd|
+!i113 1
+R11
+R12
+Atb
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+DEx4 work 7 tb_nand 0 22 nQ]o>b3kU]B^zW0_j^FD=0
+l31
+L16
+V>?RSYYhYbnnS;oFKL?<;Q2
+!s100 AJmQ519?D1JO_LjI_>>9S3
+R6
+33
+R124
+!i10b 1
+R125
+R140
+R141
+!i113 1
+R11
+R12
+Etb_nor8way
+R1
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+R0
+Z142 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Nor8Way.vhd
+Z143 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Nor8Way.vhd
+l0
+L12
+V=KAhzYIkhoeK=m8Ue0bFN2
+!s100 6bboNo6b<mcRjn]lTR`Cj0
+R6
+33
+R66
+!i10b 1
+R67
+Z144 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Nor8Way.vhd|
+Z145 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Nor8Way.vhd|
+!i113 1
+R11
+R12
+Atb
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+DEx4 work 10 tb_nor8way 0 22 =KAhzYIkhoeK=m8Ue0bFN2
+l37
+L16
+VIF8XCzmcimb5_1A1II<VI3
+!s100 m]^U7f[SnJ`8nojj:RB460
+R6
+33
+R66
+!i10b 1
+R67
+R144
+R145
+!i113 1
+R11
+R12
+Etb_or16
+R1
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+R0
+Z146 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Or16.vhd
+Z147 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Or16.vhd
+l0
+L12
+V=Yc8_oJ3PKMZS6m_d<=6l2
+!s100 gFNQ;eQ3H<gUII[Ri?G:X1
+R6
+33
+R124
+!i10b 1
+R125
+Z148 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Or16.vhd|
+Z149 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Or16.vhd|
+!i113 1
+R11
+R12
+Atb
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+DEx4 work 7 tb_or16 0 22 =Yc8_oJ3PKMZS6m_d<=6l2
+l31
+L16
+VgoOTUdbJNVf3OF_Lg7D7k0
+!s100 YSIe8^Jc<BgJgkbW0__:H3
+R6
+33
+R124
+!i10b 1
+R125
+R148
+R149
+!i113 1
+R11
+R12
+Etb_or8way
+R1
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+R0
+Z150 8/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Or8Way.vhd
+Z151 F/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Or8Way.vhd
+l0
+L12
+VF1NRUj=[@hQ<4nhTNgo<20
+!s100 lIW3RH9SMR6k_FRD;XMDH0
+R6
+33
+R124
+!i10b 1
+R125
+Z152 !s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Or8Way.vhd|
+Z153 !s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Or8Way.vhd|
+!i113 1
+R11
+R12
+Atb
+R84
+R85
+R86
+R87
+R88
+R89
+R90
+R91
+R92
+R93
+R94
+R95
+R96
+R97
+R98
+R99
+R100
+R101
+R102
+R103
+R104
+R105
+R106
+R107
+R108
+R109
+R110
+R111
+R112
+R113
+R114
+R115
+R116
+R117
+R2
+R3
+DEx4 work 9 tb_or8way 0 22 F1NRUj=[@hQ<4nhTNgo<20
+l37
+L16
+V<zKl85E6CW180eRX`5=U<2
+!s100 lB=i[zXIgdCI?ALi308bh2
+R6
+33
+R124
+!i10b 1
+R125
+R152
+R153
+!i113 1
+R11
+R12

@@ -1,0 +1,32 @@
+# nome | quantidade de testes | us de execucao
+# us -> clock = /20
+
+########################
+# p3
+########################
+#p3Q2.nasm 2 1000
+#p3Q3.nasm 1 1000
+#p3Q5.nasm 1 1000
+
+########################
+# C
+########################
+abs.nasm 2 1000
+add.nasm 1 1000
+div.nasm  2 10000
+factorial.nasm 2 10000
+max.nasm 2 10000
+mod.nasm 2 10000
+mov.nasm 1 1000
+mult.nasm 1 10000
+pow.nasm 2 10000
+sub.nasm 1 1000
+
+
+######################
+# conceito B
+######################
+#isEven 2 1000
+#palindromo 2 1000
+#stringLength 2 2000
+

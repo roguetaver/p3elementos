@@ -1,0 +1,31 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d/home/borg/Desktop/Z01.1-macarrao/Projetos/D-UnidadeLogicaAritmetica
+Ezerador16
+w1568213887
+DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+8/home/borg/Desktop/Z01.1-macarrao/Projetos/D-UnidadeLogicaAritmetica/src/rtl/zerador16.vhd
+F/home/borg/Desktop/Z01.1-macarrao/Projetos/D-UnidadeLogicaAritmetica/src/rtl/zerador16.vhd
+l0
+L8
+VnHjHn^^b>WhfhGLTYS^N30
+!s100 GFgmn:R<h:[ci`T3hP7g?0
+OV;C;10.5b;63
+33
+!s110 1568214054
+!i10b 1
+!s108 1568214054.000000
+!s90 -quiet|-modelsimini|/home/borg/Desktop/Z01.1-macarrao/Projetos/D-UnidadeLogicaAritmetica/vunit_out/modelsim/modelsim.ini|-2008|-work|lib|/home/borg/Desktop/Z01.1-macarrao/Projetos/D-UnidadeLogicaAritmetica/src/rtl/zerador16.vhd|
+!s107 /home/borg/Desktop/Z01.1-macarrao/Projetos/D-UnidadeLogicaAritmetica/src/rtl/zerador16.vhd|
+!i113 1
+o-quiet -2008 -work lib
+tExplicit 1 CvgOpt 0

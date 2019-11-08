@@ -1,0 +1,42 @@
+# do /home/borg/.local/lib/python3.6/site-packages/vunit/tcl_read_eval_loop.tcl
+# vsim -modelsimini /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini -wlf /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/test_output/lib.tb_or16.all_cfb9f3841c28e91861188c31754b6dea4385f15a/modelsim/vsim.wlf -quiet -t ps -onfinish stop lib.tb_or16(tb) -L vunit_lib -L lib -g/tb_or16/runner_cfg="active python runner : true,enabled_test_cases : ,output path : /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/test_output/lib.tb_or16.all_cfb9f3841c28e91861188c31754b6dea4385f15a/,tb path : /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/,use_color : true" 
+# Start time: 09:10:59 on Aug 30,2019
+# ** Warning: Design size of 20856 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# Break in Subprogram stop at /home/borg/.local/lib/python3.6/site-packages/vunit/vhdl/core/src/stop_body_2008.vhd line 13
+# Stopped at /home/borg/.local/lib/python3.6/site-packages/vunit/vhdl/core/src/stop_body_2008.vhd line 13
+# End time: 09:10:59 on Aug 30,2019, Elapsed time: 0:00:00
+# Errors: 0, Warnings: 2
+# vsim -modelsimini /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/modelsim/modelsim.ini -wlf /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/test_output/lib.tb_mux16.all_606ba1c5dfe76896aadaa815e44c0f75c086532c/modelsim/vsim.wlf -quiet -t ps -onfinish stop lib.tb_mux16(tb) -L vunit_lib -L lib -g/tb_mux16/runner_cfg="active python runner : true,enabled_test_cases : ,output path : /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/vunit_out/test_output/lib.tb_mux16.all_606ba1c5dfe76896aadaa815e44c0f75c086532c/,tb path : /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/,use_color : true" 
+# Start time: 09:10:59 on Aug 30,2019
+# ** Warning: Design size of 20848 statements exceeds ModelSim-Intel FPGA Starter Edition recommended capacity.
+# Expect performance to be adversely affected.
+# ** Warning: (vsim-8683) Uninitialized out port /tb_mux16/mapping/q(15 downto 0) has no driver.
+# This port will contribute value (UUUUUUUUUUUUUUUU) to the signal network.
+# ** Warning: (vsim-3116) Problem reading symbols from linux-gate.so.1 : can not open ELF file.
+# ** Error: Falha em teste: 1
+#    Time: 500 ps  Iteration: 1  Process: /tb_mux16/main File: /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux16.vhd
+# Break in Process main at /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux16.vhd line 56
+# Stopped at /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux16.vhd line 56
+# 
+# Test Run Failed!
+# 
+# Stack trace result from 'tb' command
+#  /home/borg/Desktop/Z01.1-macarrao/Projetos/C-LogicaCombinacional/tests/tst/tb_Mux16.vhd 56 return [address 0xf6be434a] Process main
+# 
+# 
+# Surrounding code from 'see' command
+#   51 :     test_runner_setup(runner, runner_cfg);
+#   52 : 
+#   53 :     -- Teste: 1
+#   54 :     inA <= "1111000011110000"; inB <= "0000000000000000"; inSel <= '0';
+#   55 :     wait until clk='1';
+# ->56 :     assert(outQ = "1111000011110000")  report "Falha em teste: 1" severity error;
+#   57 : 
+#   58 :     -- Teste: 2
+#   59 :     inA <= "0000000000000000"; inB <= "1111000011110000"; inSel <= '1';
+#   60 :     wait until clk='1';
+# 
+# End time: 09:10:59 on Aug 30,2019, Elapsed time: 0:00:00
+# Errors: 1, Warnings: 3
